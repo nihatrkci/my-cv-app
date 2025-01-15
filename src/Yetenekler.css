@@ -1,0 +1,25 @@
+/* Yetenekler kartı düzeni */
+.yetenekler {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.yetenek {
+  text-align: center;
+}
+
+.yetenek p {
+  margin-top: 10px;
+  font-size: 1.2rem;
+  color: #333;
+}
+
+.yetenek svg {
+  transition: transform 0.3s ease;
+}
+
+.yetenek:hover svg {
+  transform: scale(1.2);
+}

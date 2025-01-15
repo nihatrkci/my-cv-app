@@ -1,0 +1,20 @@
+/* Kart içindeki sosyal medya bağlantıları düzeni */
+.SosyalMedyaBaglantilari {
+    display: flex;
+    justify-content: center;  /* İkonları yatayda ortalar */
+    margin-top: 20px;
+  }
+  
+  .SosyalMedyaBaglantilari a {
+    font-size: 2rem;
+    margin: 0 20px;  /* İkonlar arasında yeterli boşluk bırak */
+    color: #333;
+    text-decoration: none;
+    transition: color 0.3s ease, transform 0.3s ease;
+  }
+  
+  .SosyalMedyaBaglantilari a:hover {
+    color: #4CAF50;
+    transform: scale(1.1);  /* Hover efektiyle ikonları büyüt */
+  }
+  
