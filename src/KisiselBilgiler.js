@@ -10,7 +10,8 @@ function KisiselBilgiler() {
       <p><strong>Telefon:</strong> +90 537 470 9060</p>
       <p><strong>Email:</strong> nihatrkc@icloud.com</p>
       <div className="KisiselBilgiler">
-        <img src="profil-foto.jpg" alt="Nihat Tarakçı" />
+      <img src="/profil-foto.jpg" alt="Nihat Tarakçı" />
+      />
       </div>
     </div>
   );

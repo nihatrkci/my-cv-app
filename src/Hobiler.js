@@ -6,7 +6,7 @@ function Hobiler() {
       <h2>Hobiler ve İlgi Alanları</h2>
       <ul>
         <li>Film İzlemek</li>
-        <li>Kitap Okumak</li>
+        <li>Araştırma Yapmak</li>
         <li>Yüzme</li>
       </ul>
     </div>
